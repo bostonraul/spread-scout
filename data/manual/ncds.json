@@ -1,0 +1,316 @@
+{
+  "edelweiss-sep26": {
+    "allocation": "Institutional 10%, non-institutional 10%, HNI 60%, retail 20%",
+    "asOf": "2026-09-22",
+    "baseSize": 150,
+    "closeDate": "2026-10-05",
+    "couponMax": 10,
+    "couponMin": 8.65,
+    "faceValue": 1000,
+    "flags": [
+      "Frequent issuer: 21st public NCD since December 2020, last one in June 2026",
+      "Proceeds mainly refinance existing debt rather than fund new lending"
+    ],
+    "greenShoe": 150,
+    "issueExpense": 9.1,
+    "issueName": "Public issue, Sep 2026 (21st since Dec 2020)",
+    "issuer": "Edelweiss Financial Services Ltd",
+    "leadManager": "Trust Investment Advisors Pvt Ltd",
+    "listing": "BSE (proposed)",
+    "minInvest": 10000,
+    "openDate": "2026-09-21",
+    "payout": [
+      "Monthly",
+      "Annual",
+      "Cumulative"
+    ],
+    "promoters": [],
+    "ratings": [
+      {
+        "agency": "CRISIL",
+        "outlook": "Stable",
+        "rating": "A+"
+      }
+    ],
+    "sector": "Diversified NBFC",
+    "secured": true,
+    "short": "Edelweiss",
+    "sources": [
+      {
+        "label": "IPO Watch review, Sep 2026",
+        "url": "https://ipowatch.in/edelweiss-financial-services-ncd-september-2026-review/"
+      },
+      {
+        "label": "Business Standard, Sep 21, 2026",
+        "url": "https://www.business-standard.com/amp/markets/capital-market-news/edelweiss-opens-public-issue-of-ncds-up-to-rs-300-cr-126092100320_1.html"
+      }
+    ],
+    "status": "Open",
+    "tenors": [
+      24,
+      36,
+      60,
+      120
+    ],
+    "totalSize": 300,
+    "useOfProceeds": "At least 75% to repay or prepay existing borrowings; up to 25% for general corporate purposes",
+    "yieldMax": 10,
+    "yieldMin": 8.64
+  },
+  "icl-fincorp-apr26": {
+    "asOf": "2026-04-24",
+    "couponMax": 11.5,
+    "couponMin": 10,
+    "flags": [
+      "Switched rating agency for this issue",
+      "Almost no institutional demand; filled by HNIs and retail",
+      "BBB-: one notch above non-investment grade"
+    ],
+    "issueName": "Public issue, Apr 2026 (9th since Nov 2023)",
+    "issuer": "ICL Fincorp Ltd",
+    "promoters": [
+      "Kuzhuppilly Govinda Menon Anilkumar",
+      "Umadevi Anilkumar"
+    ],
+    "ratings": [
+      {
+        "agency": "Acuite",
+        "outlook": "Stable",
+        "rating": "BBB-"
+      }
+    ],
+    "sector": "Gold loan NBFC",
+    "secured": true,
+    "short": "ICL Fincorp",
+    "sources": [
+      {
+        "label": "Chittorgarh issue page",
+        "url": "https://www.chittorgarh.com/bond/icl-fincorp-limited-ncd-april-2026/381/"
+      }
+    ],
+    "status": "Closed",
+    "subscription": {
+      "hni": 4.07,
+      "nii": 0.02,
+      "overall": 2.02,
+      "qib": 0,
+      "retail": 1.25
+    },
+    "trustee": "Mitcon Credentia Trusteeship Services Ltd",
+    "yieldMax": 11.5
+  },
+  "iifl-t1-2026": {
+    "asOf": "2026-02-12",
+    "flags": [
+      "Rating not yet captured: pull it from the Feb 12, 2026 prospectus"
+    ],
+    "issueName": "Tranche I, Feb 2026",
+    "issuer": "IIFL Finance Ltd",
+    "payout": [
+      "Monthly",
+      "Annual"
+    ],
+    "sector": "Diversified NBFC",
+    "short": "IIFL Finance",
+    "sources": [
+      {
+        "label": "IIFL bonds page",
+        "url": "https://www.indiainfoline.com/bonds"
+      }
+    ],
+    "status": "Closed",
+    "tenors": [
+      24,
+      36,
+      60
+    ],
+    "yieldMax": 9
+  },
+  "muthoot-finance-listed": {
+    "asOf": "2026-09-01",
+    "couponMax": 8.75,
+    "couponMin": 7.75,
+    "flags": [
+      "Yield shown is the coupon on recent issues; secondary-market YTM not captured"
+    ],
+    "issueName": "Listed NCDs (secondary market)",
+    "issuer": "Muthoot Finance Ltd",
+    "ratings": [
+      {
+        "agency": "ICRA",
+        "outlook": "Stable",
+        "rating": "AA+"
+      },
+      {
+        "agency": "CRISIL",
+        "outlook": "Stable",
+        "rating": "AA+"
+      }
+    ],
+    "sector": "Gold loan NBFC",
+    "short": "Muthoot Finance",
+    "sources": [
+      {
+        "label": "GoldenPi NBFC bonds page",
+        "url": "https://goldenpi.com/collections/nbfc-bonds"
+      }
+    ],
+    "status": "Listed",
+    "yieldMax": 8.75
+  },
+  "muthoot-fincorp-t5": {
+    "asOf": "2026-09-22",
+    "baseSize": 350,
+    "closeDate": "2026-09-22",
+    "couponMax": 9.25,
+    "couponMin": 8.56,
+    "faceValue": 1000,
+    "flags": [
+      "Split rating: CRISIL AA is one notch below Brickwork AA+",
+      "Repeat issuer: Tranches II and III ran in March and April-May 2026"
+    ],
+    "greenShoe": 350,
+    "issueName": "Tranche V, Sep 2026",
+    "issuer": "Muthoot Fincorp Ltd",
+    "leadManager": "Nuvama Wealth Management Ltd",
+    "listing": "BSE (proposed, within 3 working days of close)",
+    "metrics": {
+      "asOf": "NPA and AUM mix Mar 31, 2026; branches Jun 30, 2026",
+      "branches": 3845,
+      "gnpa": 1.61,
+      "nnpa": 0.74,
+      "securedShareAum": 78.09
+    },
+    "minInvest": 10000,
+    "openDate": "2026-09-08",
+    "payout": [
+      "Monthly",
+      "Annual",
+      "Cumulative"
+    ],
+    "promoters": [
+      "Thomas John Muthoot",
+      "Thomas George Muthoot",
+      "Thomas Muthoot"
+    ],
+    "ratings": [
+      {
+        "agency": "CRISIL",
+        "outlook": "Stable",
+        "rating": "AA"
+      },
+      {
+        "agency": "Brickwork",
+        "outlook": "Stable",
+        "rating": "AA+"
+      }
+    ],
+    "registrar": "Integrated Registry Management Services Pvt Ltd",
+    "sector": "Gold loan NBFC",
+    "secured": true,
+    "short": "Muthoot Fincorp",
+    "sources": [
+      {
+        "label": "Chittorgarh issue page",
+        "url": "https://www.chittorgarh.com/bond/muthoot-fincorp-ncd-tranche-v-ncd-september-2026/395/"
+      },
+      {
+        "label": "My Investment Ideas review",
+        "url": "https://myinvestmentideas.com/muthoot-fincorp-ncd-sep-2026-issue-details-interest-rates-ratings-and-review/"
+      },
+      {
+        "label": "The Fixed Income",
+        "url": "https://www.thefixedincome.com/blog/bonds-and-debt/muthoot-fincorp-limited-bond-public-issue-2026-ncd-issue-details-interest-rates-how-to-invest/"
+      }
+    ],
+    "status": "Closed",
+    "tenors": [
+      24,
+      36,
+      60,
+      72
+    ],
+    "totalSize": 700,
+    "trustee": "Vardhman Trusteeship Pvt Ltd",
+    "yieldMax": 9.25
+  },
+  "pfc-t1-jan26": {
+    "asOf": "2026-01-13",
+    "closeDate": "2026-01-30",
+    "couponMax": 7.3,
+    "faceValue": 1000,
+    "flags": [
+      "Largest retail bond issue in about eight years",
+      "Sources differ on the top coupon (7.05% to about 7.30%); verify against the prospectus"
+    ],
+    "issueName": "Tranche I, Jan 2026",
+    "issuer": "Power Finance Corporation Ltd",
+    "listing": "NSE",
+    "payout": [
+      "Annual",
+      "Cumulative"
+    ],
+    "ratings": [
+      {
+        "agency": "CRISIL",
+        "outlook": "Stable",
+        "rating": "AAA"
+      },
+      {
+        "agency": "ICRA",
+        "outlook": "Stable",
+        "rating": "AAA"
+      },
+      {
+        "agency": "CARE",
+        "outlook": "Stable",
+        "rating": "AAA"
+      }
+    ],
+    "sector": "PSU infrastructure NBFC",
+    "secured": true,
+    "short": "PFC",
+    "sources": [
+      {
+        "label": "JM Financial note, Jan 2026",
+        "url": "https://www.jmfinancialservices.in/blogs-and-articles/power-finance-corporation-ncd-ipo"
+      }
+    ],
+    "status": "Listed",
+    "tenors": [
+      60,
+      120,
+      121,
+      180
+    ],
+    "totalSize": 5000,
+    "useOfProceeds": "At least 75% for onward lending, refinancing and servicing existing borrowings",
+    "yieldMax": 7.3
+  },
+  "rajapushpa-unlisted": {
+    "asOf": "2026-09-25",
+    "couponMax": 15.85,
+    "flags": [
+      "ICRA rates the company's bank loans A- with a Negative outlook (Sep 2025); no agency rating found for the NCD itself",
+      "Coupon and ISIN come from earlier notes and are not yet verified against NSDL or MCA"
+    ],
+    "isin": "INE0L1W07030",
+    "issueName": "Unlisted secured NCD (private placement)",
+    "issuer": "Rajapushpa Properties Pvt Ltd",
+    "ratings": [],
+    "sector": "Real estate developer",
+    "secured": true,
+    "short": "Rajapushpa",
+    "sources": [
+      {
+        "label": "ICRA rationale, 19 Sep 2025",
+        "url": "https://www.icra.in/Rating/GetRationalReportFilePdf?id=137743"
+      },
+      {
+        "label": "Earlier desk notes, unverified"
+      }
+    ],
+    "status": "Unlisted",
+    "yieldMax": 15.85
+  }
+}

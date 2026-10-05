@@ -1,0 +1,182 @@
+{
+  "i01": {
+    "category": "Issuer",
+    "date": "2026-09-21",
+    "issuers": [
+      "edelweiss-sep26"
+    ],
+    "scope": "Issuer",
+    "source": {
+      "label": "Business Standard",
+      "url": "https://www.business-standard.com/amp/markets/capital-market-news/edelweiss-opens-public-issue-of-ncds-up-to-rs-300-cr-126092100320_1.html"
+    },
+    "summary": "Base size of ₹150 crore plus an equal green shoe, rated CRISIL A+/Stable, with effective yields from 8.64% to 10.00%. The window runs to October 5.",
+    "title": "Edelweiss opens a ₹300 crore NCD issue"
+  },
+  "i02": {
+    "category": "Issuer",
+    "date": "2026-09-22",
+    "issuers": [
+      "muthoot-fincorp-t5"
+    ],
+    "scope": "Issuer",
+    "source": {
+      "label": "My Investment Ideas",
+      "url": "https://myinvestmentideas.com/muthoot-fincorp-ncd-sep-2026-issue-details-interest-rates-ratings-and-review/"
+    },
+    "summary": "Up to ₹700 crore including the green shoe. BSE listing is due within three working days of closing; watch the first trades for where the market prices it.",
+    "title": "Muthoot Fincorp Tranche V closes"
+  },
+  "i03": {
+    "category": "Issuer",
+    "date": "2026-04-07",
+    "issuers": [
+      "icl-fincorp-apr26"
+    ],
+    "scope": "Issuer",
+    "source": {
+      "label": "Chittorgarh",
+      "url": "https://www.chittorgarh.com/bond/icl-fincorp-limited-ncd-april-2026/381/"
+    },
+    "summary": "The April issue carried an Acuite BBB-/Stable rating after the company moved agencies. A change of agency is worth checking for rating shopping.",
+    "title": "ICL Fincorp changes rating agency for its ninth issue"
+  },
+  "i04": {
+    "category": "Regulatory",
+    "date": "2026-08-21",
+    "issuers": [],
+    "scope": "Market",
+    "source": {
+      "label": "SEBI consultation paper, Aug 21, 2026"
+    },
+    "summary": "The consultation would bar terms like 'high yield' and 'high returns', celebrity endorsements and artificial urgency in bond ads. Comments closed September 11.",
+    "title": "SEBI proposes curbs on bond advertising"
+  },
+  "i05": {
+    "category": "Regulatory",
+    "date": "2026-08-14",
+    "issuers": [],
+    "scope": "Market",
+    "source": {
+      "label": "SEBI circular, Aug 14, 2026"
+    },
+    "summary": "Platforms may now list IFSCA-regulated products, labelled as international and subject to FEMA/LRS, plus 54EC bonds with prescribed disclosures.",
+    "title": "SEBI widens what online bond platforms can offer"
+  },
+  "i06": {
+    "category": "AIFs",
+    "date": "2026-06-03",
+    "issuers": [],
+    "scope": "Market",
+    "source": {
+      "label": "NewsBytes",
+      "url": "https://www.newsbytesapp.com/news/business/sebi-revises-aif-master-circular-limits-co-investing-to-accredited-investors/tldr"
+    },
+    "summary": "Co-investment is now limited to accredited investors, AIF overseas VC investment is capped at $1.5 billion industry-wide, and onboarding is stricter.",
+    "title": "New AIF master circular tightens co-investment and overseas limits"
+  },
+  "i07": {
+    "category": "AIFs",
+    "date": "2026-06-03",
+    "issuers": [],
+    "scope": "Sector",
+    "source": {
+      "label": "PMS Bazaar",
+      "url": "https://pmsbazaar.com/News/pmsbazaar/sebi_unveils_2026_master_circular_to_strengthen_alternative_investment_fund_regulations"
+    },
+    "summary": "Managers must do due diligence so AIFs are not used to get around RBI stressed-asset norms or FEMA land-border rules. Relevant wherever private credit AIFs buy NBFC or real estate NCDs.",
+    "title": "AIF managers must guard against evergreening"
+  },
+  "i08": {
+    "category": "AIFs",
+    "date": "2026-06-16",
+    "issuers": [],
+    "scope": "Market",
+    "source": {
+      "label": "Treelife",
+      "url": "https://treelife.in/news/sebi-aif-master-circular-june-2026/"
+    },
+    "summary": "A mid-June update to the AIF master circular covers retention of proceeds on winding up and introduces an inoperative-fund status.",
+    "title": "Winding-up rules and 'inoperative fund' status added"
+  },
+  "i09": {
+    "category": "AIFs",
+    "date": "2026-03-04",
+    "issuers": [],
+    "scope": "Market",
+    "source": {
+      "label": "Saraf and Partners",
+      "url": "https://sarafpartners.com/sebi-revises-the-regulatory-reporting-framework-for-aifs/"
+    },
+    "summary": "A comprehensive annual activity report replaces most quarterly reporting; the first revised quarterly report covers the June 2026 quarter.",
+    "title": "AIF reporting moves to annual plus limited quarterly"
+  },
+  "i10": {
+    "category": "Capital flows",
+    "date": "2026-04-01",
+    "issuers": [],
+    "scope": "Market",
+    "source": {
+      "label": "RBI FPI limits, FY2026-27"
+    },
+    "summary": "FPI limits stay at 6% (G-Secs), 2% (state securities) and 15% (corporate bonds). VRR now counts under general-route limits. The total debt limit rises from ₹15,51,646 crore (Apr-Sep 2026) to ₹16,32,640 crore (Oct 2026-Mar 2027).",
+    "title": "FPI debt limits held; VRR folded into general route"
+  },
+  "i11": {
+    "category": "Capital flows",
+    "date": "2026-06-08",
+    "issuers": [],
+    "scope": "Sector",
+    "source": {
+      "label": "India Macro Indicators",
+      "url": "https://indiamacroindicators.co.in/resources/blogs/fcnr-deposit-rates-2026"
+    },
+    "summary": "The rate ceiling on fresh 3-5 year FCNR(B) deposits was lifted, with a subsidised swap and CRR/SLR exemption. Banks paid up to 7.10%, drawing NRI dollars into bank liquidity.",
+    "title": "RBI opens an FCNR(B) swap window"
+  },
+  "i12": {
+    "category": "Capital flows",
+    "caution": "Unverified: confirm against RBI's own notifications before acting.",
+    "date": "2026-09-19",
+    "issuers": [],
+    "scope": "Sector",
+    "source": {
+      "label": "NRI Affairs",
+      "url": "https://www.nriaffairs.com/nri-deposit-rates-2026-crash/"
+    },
+    "summary": "RBI's June directions set September 30 as the end date. A recent report says the window shut on August 31 and deposit rates have since dropped.",
+    "title": "Conflicting reports on when the FCNR window ended"
+  },
+  "i13": {
+    "category": "Rates",
+    "date": "2026-07-17",
+    "issuers": [],
+    "scope": "Market",
+    "source": {
+      "label": "BondScanner",
+      "url": "https://bondscanner.com/blog/ncd-interest-rates-india-2026-how-set-what-to-look-for"
+    },
+    "summary": "After the 2026 cuts, one market guide puts BBB NBFC issuers at roughly 400-600 bps over the G-Sec and AAA at 50-100 bps. Other sources put the 10-year near 6.9%, so set the benchmark to your own desk's number.",
+    "title": "Repo at 5.25%, 10-year G-Sec around 6.5-6.8%"
+  },
+  "i14": {
+    "category": "Litigation",
+    "issuers": [],
+    "scope": "Market",
+    "source": {
+      "label": "Earlier desk research"
+    },
+    "summary": "The Supreme Court's 2018 Bar Council v A.K. Balaji ruling is cited as permitting non-lawyer funders; FEMA applies to foreign funders. Watch court and NCLT filings naming issuers or promoters as a credit signal.",
+    "title": "Litigation funding: allowed, but no central law"
+  },
+  "i15": {
+    "category": "Alt assets",
+    "issuers": [],
+    "scope": "Market",
+    "source": {
+      "label": "Earlier desk research"
+    },
+    "summary": "Sneaker and other fractional platforms have no dedicated regulator, and commentators argue they may be treated as collective investment schemes under the SEBI Act. A SEBI move here would signal wider retail-product scrutiny.",
+    "title": "Fractional collectibles face collective-scheme risk"
+  }
+}

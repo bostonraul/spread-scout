@@ -1,0 +1,27 @@
+{
+  "feeds": [
+    { "id": "sebi", "label": "SEBI", "url": "https://www.sebi.gov.in/sebirss.xml", "enabled": true },
+    { "id": "rbi-notifications", "label": "RBI notification", "url": "https://www.rbi.org.in/notifications_rss.xml", "enabled": true }
+  ],
+  "newsKeepDays": 120,
+  "newsMaxItems": 150,
+  "include": [
+    "debt", "debenture", "ncd", "non-convertible", "bond", "credit rating", "rating agenc", "debenture trustee",
+    "alternative investment", "aif", "online bond", "obpp", "foreign portfolio", "fpi", "reit", "invit",
+    "municipal", "securitis", "securitiz", "commercial paper", "nbfc", "non-banking", "housing finance",
+    "asset reconstruction", "arc", "co-lending", "fema", "external commercial", "ecb", "non-resident", "nri",
+    "nre", "fcnr", "remittance", "lrs", "repo", "monetary policy", "liquidity", "interest rate", "deposit",
+    "fixed income", "corporate bond", "rfq", "gift", "ifsc", "insolvency", "ibc", "default"
+  ],
+  "exclude": [
+    "recovery certificate", "remittance order", "attachment", "settlement order", "adjudication order",
+    "demand notice", "notice of demand", "order for compliance", "recovery proceedings", "note sorting",
+    "chargesheet", "summons", "exemption order", "order in respect of", "order in the matter"
+  ],
+  "courtChecks": {
+    "maxPerRun": 15,
+    "recheckDays": 7,
+    "minScore": 5,
+    "lookbackYears": 3
+  }
+}

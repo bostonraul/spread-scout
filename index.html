@@ -1,0 +1,174 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description" content="Spread Scout: scouting desk for Indian NCDs, built from NSE debt filings, research leads and market news.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 32 32%22%3E%3Crect width=%2232%22 height=%2232%22 rx=%226%22 fill=%22%231F5C4A%22/%3E%3Cpath d=%22M7 22 L13 14 L18 18 L25 9%22 stroke=%22white%22 stroke-width=%223%22 fill=%22none%22 stroke-linecap=%22round%22 stroke-linejoin=%22round%22/%3E%3C/svg%3E">
+<title>Spread Scout: NCD scouting desk</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <div class="brand">
+      <h1>Spread Scout</h1>
+      <p>Scouts NCD opportunities from exchange filings, research leads and news, and keeps every issue on one yield ladder.</p>
+    </div>
+    <div class="bench">
+      <label for="bench">10-yr G-Sec benchmark (%)</label>
+      <input id="bench" type="number" step="0.01" min="0" max="20" inputmode="decimal">
+    </div>
+  </header>
+
+  <div id="status"></div>
+
+  <section class="board" aria-labelledby="board-title">
+    <div class="board-head">
+      <h2 id="board-title">What the filings are signalling</h2>
+      <p id="board-src">Loading exchange data…</p>
+    </div>
+    <div class="sigs" id="sigs"></div>
+  </section>
+
+  <nav class="tabs" role="tablist" aria-label="Views">
+    <button role="tab" id="tab-scout" aria-controls="p-scout" aria-selected="true">Scout board<span class="count" id="c-scout"></span></button>
+    <button role="tab" id="tab-universe" aria-controls="p-universe" aria-selected="false">NCD universe<span class="count" id="c-universe"></span></button>
+    <button role="tab" id="tab-leads" aria-controls="p-leads" aria-selected="false">Research leads<span class="count" id="c-leads"></span></button>
+    <button role="tab" id="tab-intel" aria-controls="p-intel" aria-selected="false">Intelligence<span class="count" id="c-intel"></span></button>
+    <button role="tab" id="tab-watch" aria-controls="p-watch" aria-selected="false">Watchlist<span class="count" id="c-watch"></span></button>
+    <button role="tab" id="tab-admin" aria-controls="p-admin" aria-selected="false" hidden>Admin</button>
+  </nav>
+
+  <section class="panel" id="p-scout" role="tabpanel" aria-labelledby="tab-scout">
+    <div class="chips" id="lens-chips"></div>
+    <div class="filters">
+      <input type="search" id="sq" placeholder="Search issuer or ISIN" aria-label="Search issuers">
+      <select id="s-rating" aria-label="Rating"><option value="">Any rating</option><option value="AAA">AAA</option><option value="AA">AA band</option><option value="A">A band</option><option value="BBB">BBB band</option><option value="LOW">BB and below</option><option value="UNR">No long-term rating on file</option></select>
+      <label class="check"><input type="checkbox" id="s-ncd"> Filed NCD term sheets</label>
+      <span class="spacer"></span>
+      <span class="sub" id="s-count"></span>
+    </div>
+    <div class="table-wrap"><table>
+      <thead><tr id="s-thead"></tr></thead>
+      <tbody id="s-tbody"></tbody>
+    </table></div>
+  </section>
+
+  <section class="panel" id="p-universe" role="tabpanel" aria-labelledby="tab-universe" hidden>
+    <section class="ladder" aria-labelledby="ladder-title">
+      <div class="ladder-head">
+        <h2 id="ladder-title">Yield ladder</h2>
+        <p>Highest yield on offer per issue, against typical 2026 ranges for each rating band. Select a marker to open the issue.</p>
+      </div>
+      <div class="track"><div class="track-inner" id="ladder"></div></div>
+      <div class="legend" id="legend"></div>
+    </section>
+    <div class="filters">
+      <input type="search" id="q" placeholder="Search issuer, promoter, ISIN, sector" aria-label="Search">
+      <select id="f-status" aria-label="Status"><option value="">All statuses</option></select>
+      <select id="f-band" aria-label="Rating band"><option value="">All ratings</option></select>
+      <select id="f-sector" aria-label="Sector"><option value="">All sectors</option></select>
+      <label class="check"><input type="checkbox" id="f-secured"> Secured only</label>
+      <span class="spacer"></span>
+    </div>
+    <div class="table-wrap"><table>
+      <thead><tr id="thead"></tr></thead>
+      <tbody id="tbody"></tbody>
+    </table></div>
+  </section>
+
+  <section class="panel" id="p-leads" role="tabpanel" aria-labelledby="tab-leads" hidden>
+    <div class="filters">
+      <p class="sub" style="margin:0;flex:1 1 320px">Issuers found through research rather than exchange files: unlisted and privately placed NCDs, board approvals and fund deals. Each lead links to where it was found. Verify against primary documents before acting.</p>
+      <select id="l-status" aria-label="Lead status"><option value="">All statuses</option><option>New</option><option>Reviewing</option><option>Added to universe</option><option>Dismissed</option></select>
+    </div>
+    <div class="leads" id="leads"></div>
+  </section>
+
+  <section class="panel" id="p-intel" role="tabpanel" aria-labelledby="tab-intel" hidden>
+    <div class="chips" id="chips"></div>
+    <div class="feed" id="feed"></div>
+  </section>
+
+  <section class="panel" id="p-watch" role="tabpanel" aria-labelledby="tab-watch" hidden>
+    <p class="sub" style="margin:0 0 12px">Your watchlist and notes are saved in this browser only.</p>
+    <div class="table-wrap"><table>
+      <thead><tr><th>Name</th><th>Tracked as</th><th>Rating</th><th class="num">Yield or top coupon</th><th>Note</th></tr></thead>
+      <tbody id="wbody"></tbody>
+    </table></div>
+  </section>
+
+  <section class="panel" id="p-admin" role="tabpanel" aria-labelledby="tab-admin" hidden>
+    <div class="admin" id="admin-gate">
+      <div class="admin-bar">
+        <div class="admin-bar-text">
+          <h3>Admin sign-in</h3>
+          <p class="sub">This view is for the site administrator.</p>
+        </div>
+        <form id="gate-form" class="gate" novalidate>
+          <label class="fld">Admin email<input type="email" id="gate-email" autocomplete="email" required></label>
+          <button class="btn primary" type="submit">Continue</button>
+          <span class="formerr" id="gate-err" aria-live="polite"></span>
+        </form>
+      </div>
+    </div>
+
+    <div class="admin" id="admin-body" hidden>
+      <div class="admin-bar">
+        <div class="admin-bar-text">
+          <h3>Signed in as <span id="admin-who"></span></h3>
+          <p class="sub" id="refresh-state">Checking when the data was last refreshed…</p>
+        </div>
+        <div class="admin-bar-actions">
+          <a class="btn" id="actions-link" target="_blank" rel="noopener">Refresh history on GitHub</a>
+          <button class="btn" id="leave-admin" type="button">Sign out</button>
+        </div>
+      </div>
+
+      <h3 class="sec">1. Get the files from NSE</h3>
+      <div class="guide">
+        <div><b>Source</b><p class="src-url" id="source-url"></p><a class="btn primary" id="source-link" target="_blank" rel="noopener">Open the NSE source page</a></div>
+        <div><b>What to download</b>Set the date range (1M covers a month), leave Type as all, and choose Download (.csv). In the same Corporate Filings menu, Debt Centralised Database also lists Credit Rating Details and Default Payment Details; download those when you want ratings and defaults refreshed.</div>
+      </div>
+
+      <h3 class="sec">2. Check a file before uploading <span class="sub">(optional)</span></h3>
+      <div class="drop" id="drop">
+        <p>Choose a CSV to see what the site will read from it: file type, date range, issuers and findings. Nothing is uploaded from here.</p>
+        <label class="btn" for="file" style="display:inline-block">Choose CSV files to check</label>
+        <input type="file" id="file" accept=".csv,text/csv" multiple hidden>
+      </div>
+      <div class="staged" id="staged"></div>
+      <div class="filters" id="commit-row" hidden><button class="btn" id="clear" type="button">Clear</button></div>
+
+      <h3 class="sec">3. Upload to the site</h3>
+      <div class="guide">
+        <div><b>Upload</b><p>Sign in to GitHub with the admin account, drag the CSV files in, and choose Commit changes. The site reads them, updates every issuer profile and republishes in about three minutes.</p><a class="btn primary" id="upload-link" target="_blank" rel="noopener">Upload files on GitHub</a><p class="sub" id="repo-note"></p></div>
+        <div><b>Refreshed automatically</b><p>Every morning at 06:45 IST the site reads new SEBI and RBI notices for the news feed. If a court-data key is set, it also checks court cases for the issuers with the strongest signals once a week.</p></div>
+      </div>
+
+      <h3 class="sec">Upload history</h3>
+      <div class="table-wrap"><table style="min-width:760px">
+        <thead><tr><th>File</th><th>Type</th><th>Covers</th><th class="num">Rows</th><th class="num">Issuers</th><th>Findings</th><th>Uploaded</th><th>Original</th></tr></thead>
+        <tbody id="hbody"></tbody>
+      </table></div>
+    </div>
+  </section>
+
+  <p class="foot">Exchange signals come from files the team uploads; research leads and news come from the desk's review of public sources. Coupons from term sheets are issue coupons, not traded yields. Rating-band ranges are indicative. This is a research tool, not an offer or recommendation.</p>
+</div>
+
+<div class="scrim" id="scrim" hidden></div>
+<aside class="drawer" id="drawer" hidden aria-modal="true" role="dialog" aria-labelledby="d-title"></aside>
+
+
+<script src="data/data.js"></script>
+<script src="js/config.js"></script>
+<script src="js/engine.js"></script>
+<script src="js/store.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

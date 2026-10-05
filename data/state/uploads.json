@@ -1,0 +1,64 @@
+{
+ "seed-crd": {
+  "file": "CF-CRD-25-03-2026-to-25-09-2026.csv",
+  "issuersTouched": 101,
+  "newIssuers": 101,
+  "sizeBytes": 5507802,
+  "summary": {
+   "defaults": 1,
+   "downgrades": 3,
+   "from": "2026-03-25",
+   "issuers": 101,
+   "ratingEvents": 470,
+   "rows": 12196,
+   "skipped": 0,
+   "subA": 11,
+   "to": "2026-09-24",
+   "upgrades": 15
+  },
+  "type": "crd",
+  "uploadedAt": "2026-09-25T04:40:00.000Z",
+  "uploadedBy": "desk",
+  "rawPath": "data/raw/CF-CRD-25-03-2026-to-25-09-2026.csv"
+ },
+ "seed-docs": {
+  "file": "CF-Debt-docs-debt-25-03-2026-to-25-09-2026.csv",
+  "issuersTouched": 156,
+  "newIssuers": 121,
+  "sizeBytes": 359962,
+  "summary": {
+   "cp": 1575,
+   "from": "2026-03-25",
+   "highCoupon": 24,
+   "issuers": 156,
+   "ncd": 306,
+   "rows": 2776,
+   "skipped": 0,
+   "to": "2026-09-23",
+   "trustDeeds": 249
+  },
+  "type": "docs",
+  "uploadedAt": "2026-09-25T04:40:00.000Z",
+  "uploadedBy": "desk",
+  "rawPath": "data/raw/CF-Debt-docs-debt-25-03-2026-to-25-09-2026.csv"
+ },
+ "seed-dpd": {
+  "file": "CF-DPD-25-03-2026-to-25-09-2026.csv",
+  "issuersTouched": 1,
+  "newIssuers": 1,
+  "sizeBytes": 16006,
+  "summary": {
+   "amountCr": 222.28,
+   "from": "2026-03-30",
+   "issuers": 1,
+   "payments": 38,
+   "rows": 38,
+   "skipped": 0,
+   "to": "2026-09-15"
+  },
+  "type": "dpd",
+  "uploadedAt": "2026-09-25T04:40:00.000Z",
+  "uploadedBy": "desk",
+  "rawPath": "data/raw/CF-DPD-25-03-2026-to-25-09-2026.csv"
+ }
+}

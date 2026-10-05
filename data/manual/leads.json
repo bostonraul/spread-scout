@@ -1,0 +1,178 @@
+{
+  "embassy-developments": {
+    "amountCr": 160,
+    "coupon": "Not disclosed",
+    "eventDate": "2026-09-19",
+    "foundBy": "Desk research",
+    "foundOn": "2026-09-25",
+    "instrument": "Unlisted NCDs, 16,000 of ₹1 lakh face value",
+    "name": "Embassy Developments Ltd",
+    "nextStep": "Watch for the allotment disclosure, which should name the coupon and investor.",
+    "sources": [
+      {
+        "label": "InvestyWise, 19 Sep 2026",
+        "url": "https://www.investywise.com/embassy-developments-limited-approves-fund-raising-via-ncds"
+      },
+      {
+        "label": "Business Standard, Jul 2026",
+        "url": "https://www.business-standard.com/amp/companies/news/embassy-developments-raises-ncd-fundraising-limit-to-rs-1570-crore-126070700491_1.html"
+      }
+    ],
+    "status": "New",
+    "summary": "Board approved up to ₹160 crore of NCDs that won't be listed, as an enabling authorisation. In July 2026 the company raised its overall NCD borrowing limit to ₹1,570 crore, so more private placements are likely.",
+    "tags": [
+      {
+        "label": "Raising now",
+        "lens": "raising"
+      }
+    ]
+  },
+  "my-home-group": {
+    "foundBy": "Desk research",
+    "foundOn": "2026-09-25",
+    "instrument": "None found yet",
+    "name": "My Home Group (Hyderabad)",
+    "nextStep": "Search MCA charges for My Home Constructions and group companies for debenture-trustee charge holders, and check ICRA, CARE and CRISIL for rated instruments.",
+    "sources": [
+      {
+        "label": "Company website",
+        "url": "https://www.myhomeconstructions.com/"
+      }
+    ],
+    "status": "Reviewing",
+    "summary": "Large private Hyderabad developer (My Home Constructions and group companies). This scan found no public NCD issue, exchange filing or rated debenture. If the group borrows through NCDs, they are likely private placements with funds, which show up first as MCA charges in favour of a debenture trustee.",
+    "tags": [
+      {
+        "label": "To verify",
+        "lens": "raising"
+      }
+    ]
+  },
+  "purshottam-investofin": {
+    "amountCr": 30,
+    "caution": "Unrated, unsecured, and the issuer is reported to be under scrutiny. Treat as a special-situations lead only.",
+    "coupon": "13% fixed, paid quarterly",
+    "eventDate": "2026-03-24",
+    "foundBy": "Desk research",
+    "foundOn": "2026-09-25",
+    "instrument": "Unrated, unsecured, unlisted NCDs",
+    "name": "Purshottam Investofin Ltd",
+    "nextStep": "Find what the scrutiny is (exchange queries, SEBI or RBI action) before spending more time.",
+    "rating": "Unrated",
+    "security": "Unsecured",
+    "sources": [
+      {
+        "label": "Whalesbook, 24 Mar 2026",
+        "url": "https://www.whalesbook.com/corporate-news/English/bankingfinance/Purshottam-Investofin-Raises-indian-rupee30-Crore-at-13percent-Interest-Via-NCDs/69c298b3b3510476c34fdee7"
+      }
+    ],
+    "status": "New",
+    "summary": "NBFC raising short-term money at 13% with an investor put after six months and a 2% penalty rate on default. Reports tie the raise to the company's recent financial difficulties and scrutiny.",
+    "tags": [
+      {
+        "label": "13% coupon",
+        "lens": "yield"
+      },
+      {
+        "label": "Unrated and under scrutiny",
+        "lens": "distress"
+      }
+    ],
+    "tenure": "18 months, maturing 24 Sep 2027"
+  },
+  "qgo-finance": {
+    "amountCr": 21.75,
+    "caution": "Mostly unsecured and long-dated; check capital adequacy and asset quality before looking further.",
+    "coupon": "12% fixed, paid monthly",
+    "eventDate": "2026-02-26",
+    "foundBy": "Desk research",
+    "foundOn": "2026-09-25",
+    "instrument": "Private placement NCDs: ₹2 crore secured, ₹19.75 crore unsecured",
+    "name": "QGO Finance Ltd",
+    "nextStep": "Read the latest annual report for NPAs, capital adequacy and borrowing mix.",
+    "security": "Mostly unsecured; secured part has a pari passu charge on receivables",
+    "sources": [
+      {
+        "label": "HDFC Sky news",
+        "url": "https://hdfcsky.com/news/qgo-finance-approves-rs-21-75-crore-unlisted-ncd-issuance-at-12-percent-coupon"
+      }
+    ],
+    "status": "New",
+    "summary": "Small NBFC raising long-dated money at 12% to fund lending. About 90% of the issue is unsecured.",
+    "tags": [
+      {
+        "label": "12% coupon",
+        "lens": "yield"
+      },
+      {
+        "label": "Mostly unsecured",
+        "lens": "distress"
+      }
+    ],
+    "tenure": "84 months secured, 9 years unsecured"
+  },
+  "rajapushpa-properties": {
+    "caution": "The NCD coupon and ISIN come from earlier notes and are not confirmed by a primary source.",
+    "coupon": "15.85% (from earlier notes, not yet verified)",
+    "eventDate": "2025-09-19",
+    "foundBy": "Desk research",
+    "foundOn": "2026-09-25",
+    "instrument": "Unlisted secured NCD, ISIN INE0L1W07030 per earlier desk notes",
+    "name": "Rajapushpa Properties Pvt Ltd",
+    "nextStep": "Confirm the ISIN on NSDL India BondInfo, find the debenture trustee charge on MCA, and check whether any agency rates the NCD itself.",
+    "rating": "ICRA A- (Negative) on bank loans, Sep 2025",
+    "sources": [
+      {
+        "label": "ICRA rationale, 19 Sep 2025",
+        "url": "https://www.icra.in/Rating/GetRationalReportFilePdf?id=137743"
+      },
+      {
+        "label": "ICRA: Rajapushpa Infra, Sep 2024",
+        "url": "https://www.icra.in/Rating/GetRationalReportFilePdf?id=130004"
+      }
+    ],
+    "status": "Reviewing",
+    "summary": "Hyderabad residential developer. ICRA reaffirmed A- in September 2025 but cut the outlook to Negative: debt rose 42.4% in FY2025 while operating cash flow fell sharply, and cash-flow adequacy dropped to 24%. ICRA's rating covers ₹1,400 crore of bank loans, not the NCD. Group company Rajapushpa Infra is rated ICRA BBB+ (Stable).",
+    "tags": [
+      {
+        "label": "Negative outlook",
+        "lens": "distress"
+      },
+      {
+        "label": "High coupon (unverified)",
+        "lens": "yield"
+      }
+    ]
+  },
+  "suraj-estate-developers": {
+    "amountCr": 45,
+    "coupon": "Effective rate rising to 17% a year, paid monthly",
+    "eventDate": "2026-02-21",
+    "foundBy": "Desk research",
+    "foundOn": "2026-09-25",
+    "instrument": "Secured unlisted NCDs, private placement",
+    "investor": "India Real Estate Investment Fund Series 2 (ICICI Venture); trustee IDBI Trusteeship",
+    "name": "Suraj Estate Developers Ltd",
+    "nextStep": "Pull the company's exchange disclosure for the exact coupon step-ups and security, then track interest cover in quarterly results.",
+    "security": "Secured",
+    "sources": [
+      {
+        "label": "TipRanks, company announcement",
+        "url": "https://www.tipranks.com/news/company-announcements/suraj-estate-developers-raises-rs-45-crore-via-unlisted-ncds-from-aif"
+      }
+    ],
+    "status": "New",
+    "summary": "Mumbai developer funding projects through an AIF rather than the public debt market. A 17% effective rate from a large AIF shows what private credit charges this kind of borrower.",
+    "tags": [
+      {
+        "label": "17% effective coupon",
+        "lens": "yield"
+      },
+      {
+        "label": "AIF-funded",
+        "lens": "raising"
+      }
+    ],
+    "tenure": "42 months"
+  }
+}
