@@ -1,5 +1,55 @@
 {
- "items": {},
- "lastRun": null,
- "sources": {}
+ "items": {
+  "auto-1fdb8388d95a": {
+   "title": "Non-Resident Deposits - Comprehensive Single Return (NRD-CSR)(R012): Submission under CIMS Sankalan Portal",
+   "date": "2026-10-01",
+   "category": "Capital flows",
+   "scope": "Market",
+   "summary": "RBI/2026-27/280 A.P. (DIR Series) Circular No. 24 October 01, 2026 To All Authorised Dealers Madam / Sir, Non-Resident Deposits - Comprehensive Single Return (NRD-CSR)(R012): Submission under CIMS Sankalan Portal Attention of banks maintaining Non-Resident Deposits (NRD) Accounts is invited to A.P. (DIR Series) Circula",
+   "source": {
+    "label": "RBI notification",
+    "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13725&Mode=0"
+   },
+   "auto": true
+  },
+  "auto-73445f81a394": {
+   "title": "Online submission of Form A2: Removal of limits on amount of remittance",
+   "date": "2026-10-01",
+   "category": "Capital flows",
+   "scope": "Market",
+   "summary": "RBI/2026-27/279 A.P. (DIR Series) Circular No. 23 October 01, 2026 To All Authorised Dealers in Foreign Exchange Madam / Sir Online submission of Form A2: Removal of limits on amount of remittance Attention of Authorised Dealers (ADs) Category I banks and AD &ndash; Category II entities is invited to paragraph 3 of A.P",
+   "source": {
+    "label": "RBI notification",
+    "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13724&Mode=0"
+   },
+   "auto": true
+  },
+  "auto-a604757e25af": {
+   "title": "Master Circular - Credit Facilities to Scheduled Castes (SCs) & Scheduled Tribes (STs)",
+   "date": "2026-10-01",
+   "category": "Regulatory",
+   "scope": "Market",
+   "summary": "RBI/2026-27/272 FIDD.CO.GSSD.BC.No.11/09.09.001/2026-27 October 01, 2026 The Chairman/ Managing Director / Chief Executive Officer All Scheduled Commercial Banks (including Small Finance Banks) Madam/ Dear Sir, Master Circular - Credit facilities to Scheduled Castes (SCs) & Scheduled Tribes (STs) The Reserve Bank of In",
+   "source": {
+    "label": "RBI notification",
+    "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13716&Mode=0"
+   },
+   "auto": true
+  }
+ },
+ "lastRun": "2026-10-05T02:55:09.902Z",
+ "sources": {
+  "sebi": {
+   "ok": true,
+   "checkedAt": "2026-10-05T02:55:09.902Z",
+   "items": 30,
+   "added": 0
+  },
+  "rbi-notifications": {
+   "ok": true,
+   "checkedAt": "2026-10-05T02:55:09.902Z",
+   "items": 10,
+   "added": 3
+  }
+ }
 }
