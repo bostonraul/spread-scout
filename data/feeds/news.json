@@ -120,6 +120,18 @@
    },
    "auto": true
   },
+  "auto-ddd0acb19d32": {
+   "title": "Reserve Bank of India (Commercial Banks – Credit Valuation Adjustment Framework) Directions, 2026",
+   "date": "2026-10-07",
+   "category": "Capital flows",
+   "scope": "Market",
+   "summary": "RBI/DOR/2026-27/474 DOR.MRG.REC.No.246/00-00-001/2026-27 October 7, 2026 Reserve Bank of India (Commercial Banks &ndash; Credit Valuation Adjustment Framework) Directions, 2026 Table of Contents Introduction Chapter I: Preliminary A. Short Title and Commencement B. Applicability C. Definitions Chapter II: Scope of Appl",
+   "source": {
+    "label": "RBI notification",
+    "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13729&Mode=0"
+   },
+   "auto": true
+  },
   "auto-1fdb8388d95a": {
    "title": "Non-Resident Deposits - Comprehensive Single Return (NRD-CSR)(R012): Submission under CIMS Sankalan Portal",
    "date": "2026-10-01",
@@ -157,19 +169,19 @@
    "auto": true
   }
  },
- "lastRun": "2026-10-08T07:22:47.075Z",
+ "lastRun": "2026-10-09T07:22:33.246Z",
  "sources": {
   "sebi": {
    "ok": true,
-   "checkedAt": "2026-10-08T07:22:47.075Z",
+   "checkedAt": "2026-10-09T07:22:33.246Z",
    "items": 30,
-   "added": 3
+   "added": 0
   },
   "rbi-notifications": {
    "ok": true,
-   "checkedAt": "2026-10-08T07:22:47.075Z",
+   "checkedAt": "2026-10-09T07:22:33.246Z",
    "items": 10,
-   "added": 5
+   "added": 1
   }
  }
 }
