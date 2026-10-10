@@ -1,5 +1,41 @@
 {
  "items": {
+  "auto-7f08f23bec4a": {
+   "title": "Risk Management and Inter-Bank Dealings - Foreign Exchange Risk Reserve",
+   "date": "2026-10-10",
+   "category": "Capital flows",
+   "scope": "Market",
+   "summary": "RBI/2026-27/292 A.P. (DIR Series) Circular No. 26 October 10, 2026 To, All Authorised Dealers Madam/Sir, Risk Management and Inter-Bank Dealings - Foreign Exchange Risk Reserve Attention of Authorised Dealers is invited to the Master Direction - Risk Management and Inter-Bank Dealings dated July 05, 2016 , as amended f",
+   "source": {
+    "label": "RBI notification",
+    "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13738&Mode=0"
+   },
+   "auto": true
+  },
+  "auto-b91aebe06845": {
+   "title": "Risk Management and Inter-Bank Dealings",
+   "date": "2026-10-10",
+   "category": "Capital flows",
+   "scope": "Market",
+   "summary": "RBI/2026-27/291 A.P. (DIR Series) Circular No. 25 October 10, 2026 To, All Authorised Dealers Madam/Sir, Risk Management and Inter-Bank Dealings Attention of Authorised Dealers is invited to the Master Direction - Risk Management and Inter-Bank Dealings dated July 05, 2016 , as amended from time to time. 2. In view of ",
+   "source": {
+    "label": "RBI notification",
+    "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13737&Mode=0"
+   },
+   "auto": true
+  },
+  "auto-e9e33445ecc3": {
+   "title": "Section 42(1) of the Reserve Bank of India Act, 1934 - Change in Daily Minimum Cash Reserve Maintenance Requirement",
+   "date": "2026-10-09",
+   "category": "Rates",
+   "scope": "Market",
+   "summary": "RBI/2026-27/290 DoR.RET.REC.247/12.01.001/2026-27 October 09, 2026 All Scheduled Banks, Madam / Sir, Section 42(1) of the Reserve Bank of India Act, 1934 - Change in Daily Minimum Cash Reserve Maintenance Requirement The scheduled banks are allowed to maintain minimum Cash Reserve Ratio (CRR) of not less than 90 percen",
+   "source": {
+    "label": "RBI notification",
+    "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13736&Mode=0"
+   },
+   "auto": true
+  },
   "auto-b2a11cca60db": {
    "title": "Liquidity Adjustment Facility - Change in rates",
    "date": "2026-10-07",
@@ -169,19 +205,19 @@
    "auto": true
   }
  },
- "lastRun": "2026-10-09T07:22:33.246Z",
+ "lastRun": "2026-10-10T07:04:58.177Z",
  "sources": {
   "sebi": {
    "ok": true,
-   "checkedAt": "2026-10-09T07:22:33.246Z",
+   "checkedAt": "2026-10-10T07:04:58.177Z",
    "items": 30,
    "added": 0
   },
   "rbi-notifications": {
    "ok": true,
-   "checkedAt": "2026-10-09T07:22:33.246Z",
+   "checkedAt": "2026-10-10T07:04:58.177Z",
    "items": 10,
-   "added": 1
+   "added": 3
   }
  }
 }
