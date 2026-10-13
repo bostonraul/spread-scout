@@ -1,5 +1,17 @@
 {
  "items": {
+  "auto-ffed80c33590": {
+   "title": "Risk Management and Inter-Bank Dealings",
+   "date": "2026-10-12",
+   "category": "Capital flows",
+   "scope": "Market",
+   "summary": "RBI/2026-27/293 A.P. (DIR Series) Circular No. 27 October 12, 2026 To, All Authorised Dealers Madam/Sir, Risk Management and Inter-Bank Dealings Attention of Authorised Dealers is invited to Master Direction - Risk Management and Inter-Bank Dealings dated July 05, 2016 , as amended from time to time. 2. In terms of Par",
+   "source": {
+    "label": "RBI notification",
+    "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13739&Mode=0"
+   },
+   "auto": true
+  },
   "auto-7f08f23bec4a": {
    "title": "Risk Management and Inter-Bank Dealings - Foreign Exchange Risk Reserve",
    "date": "2026-10-10",
@@ -205,19 +217,19 @@
    "auto": true
   }
  },
- "lastRun": "2026-10-12T07:20:15.005Z",
+ "lastRun": "2026-10-13T07:41:39.192Z",
  "sources": {
   "sebi": {
    "ok": true,
-   "checkedAt": "2026-10-12T07:20:15.005Z",
+   "checkedAt": "2026-10-13T07:41:39.192Z",
    "items": 30,
    "added": 0
   },
   "rbi-notifications": {
    "ok": true,
-   "checkedAt": "2026-10-12T07:20:15.005Z",
+   "checkedAt": "2026-10-13T07:41:39.192Z",
    "items": 10,
-   "added": 0
+   "added": 1
   }
  }
 }
