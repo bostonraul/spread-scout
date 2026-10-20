@@ -1,5 +1,29 @@
 {
  "items": {
+  "auto-0c00ea2426aa": {
+   "title": "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 03 Entries",
+   "date": "2026-10-19",
+   "category": "Regulatory",
+   "scope": "Market",
+   "summary": "RBI/2026-27/296 DoR.AML.REC.250/14.06.001/2026-27 October 19, 2026 The Chairpersons/ CEOs of the Commercial Banks, Small Finance Banks, Payment Banks, Urban Co-operative Banks, Rural Co-operative Banks, Regional Rural Banks, Local Area Banks, Non-Banking Financial Companies, Asset Reconstruction Companies, All India Fi",
+   "source": {
+    "label": "RBI notification",
+    "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13742&Mode=0"
+   },
+   "auto": true
+  },
+  "auto-f28fb0a53696": {
+   "title": "Securities and Exchange Board of India (Alternative Investment Funds) (Third Amendment) Regulations, 2026",
+   "date": "2026-10-15",
+   "category": "AIFs",
+   "scope": "Market",
+   "summary": "SEBI published this on 2026-10-15.",
+   "source": {
+    "label": "SEBI",
+    "url": "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-alternative-investment-funds-third-amendment-regulations-2026_105331.html"
+   },
+   "auto": true
+  },
   "auto-ffed80c33590": {
    "title": "Risk Management and Inter-Bank Dealings",
    "date": "2026-10-12",
@@ -217,19 +241,19 @@
    "auto": true
   }
  },
- "lastRun": "2026-10-19T06:11:42.193Z",
+ "lastRun": "2026-10-20T05:59:41.008Z",
  "sources": {
   "sebi": {
    "ok": true,
-   "checkedAt": "2026-10-19T06:11:42.193Z",
+   "checkedAt": "2026-10-20T05:59:41.008Z",
    "items": 30,
-   "added": 0
+   "added": 1
   },
   "rbi-notifications": {
    "ok": true,
-   "checkedAt": "2026-10-19T06:11:42.193Z",
+   "checkedAt": "2026-10-20T05:59:41.008Z",
    "items": 10,
-   "added": 0
+   "added": 1
   }
  }
 }
