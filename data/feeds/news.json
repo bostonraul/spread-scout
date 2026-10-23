@@ -1,5 +1,17 @@
 {
  "items": {
+  "auto-a6f61e0d3f44": {
+   "title": "Caution to Investors against Stock Tips offered through Invitation-only WhatsApp Groups",
+   "date": "2026-10-22",
+   "category": "Regulatory",
+   "scope": "Market",
+   "summary": "SEBI published this on 2026-10-22.",
+   "source": {
+    "label": "SEBI",
+    "url": "https://www.sebi.gov.in/media-and-notifications/press-releases/oct-2026/caution-to-investors-against-stock-tips-offered-through-invitation-only-whatsapp-groups_105389.html"
+   },
+   "auto": true
+  },
   "auto-0c00ea2426aa": {
    "title": "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 03 Entries",
    "date": "2026-10-19",
@@ -21,6 +33,30 @@
    "source": {
     "label": "SEBI",
     "url": "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-alternative-investment-funds-third-amendment-regulations-2026_105331.html"
+   },
+   "auto": true
+  },
+  "auto-3de416dd2d1a": {
+   "title": "Securities and Exchange Board of India (Alternative Investment Funds) Regulations, 2012 [Last amended on October 15, 2026]",
+   "date": "2026-10-15",
+   "category": "AIFs",
+   "scope": "Market",
+   "summary": "SEBI published this on 2026-10-15.",
+   "source": {
+    "label": "SEBI",
+    "url": "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-alternative-investment-funds-regulations-2012-last-amended-on-october-15-2026-_105374.html"
+   },
+   "auto": true
+  },
+  "auto-80343d22230a": {
+   "title": "Securities and Exchange Board of India (Alternative Investment Funds) Regulations 2012 [Last amended on October 15, 2026]",
+   "date": "2026-10-15",
+   "category": "AIFs",
+   "scope": "Market",
+   "summary": "SEBI published this on 2026-10-15.",
+   "source": {
+    "label": "SEBI",
+    "url": "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-alternative-investment-funds-regulations-2012-last-amended-on-october-15-2026-_105357.html"
    },
    "auto": true
   },
@@ -241,17 +277,17 @@
    "auto": true
   }
  },
- "lastRun": "2026-10-22T06:06:17.286Z",
+ "lastRun": "2026-10-23T06:01:37.143Z",
  "sources": {
   "sebi": {
    "ok": true,
-   "checkedAt": "2026-10-22T06:06:17.286Z",
+   "checkedAt": "2026-10-23T06:01:37.143Z",
    "items": 30,
-   "added": 0
+   "added": 3
   },
   "rbi-notifications": {
    "ok": true,
-   "checkedAt": "2026-10-22T06:06:17.286Z",
+   "checkedAt": "2026-10-23T06:01:37.143Z",
    "items": 10,
    "added": 0
   }
