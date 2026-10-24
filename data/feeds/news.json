@@ -1,5 +1,65 @@
 {
  "items": {
+  "auto-93d0a2f8a826": {
+   "title": "Release Order – Sumit Wadhwa (PAN: AAOPW8621R), Pal Singh (PAN: BDKPS9758P) and Harleen Singh (PAN: ANKPS5827L) [Defaulters] in the matter of Unregistered Investment Adviser: under Certificate No. 7867 of 2024.",
+   "date": "2026-10-23",
+   "category": "Regulatory",
+   "scope": "Market",
+   "summary": "SEBI published this on 2026-10-23.",
+   "source": {
+    "label": "SEBI",
+    "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/release-order-sumit-wadhwa-pan-aaopw8621r-pal-singh-pan-bdkps9758p-and-harleen-singh-pan-ankps5827l-defaulters-in-the-matter-of-unregistered-investment-adviser-under-certificate-no-786-_105411.html"
+   },
+   "auto": true
+  },
+  "auto-a9eb25d2d846": {
+   "title": "General Public Notice to Rose Valley Depositors",
+   "date": "2026-10-23",
+   "category": "Regulatory",
+   "scope": "Market",
+   "summary": "SEBI published this on 2026-10-23.",
+   "source": {
+    "label": "SEBI",
+    "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/general-public-notice-to-rose-valley-depositors_105395.html"
+   },
+   "auto": true
+  },
+  "auto-cd6da12a1ac3": {
+   "title": "Delegation of Compounding of certain Contraventions under FEMA, 1999 to Regional Offices of the Reserve Bank",
+   "date": "2026-10-23",
+   "category": "Capital flows",
+   "scope": "Market",
+   "summary": "RBI/FED/2026-27/298 A.P. (DIR Series) Circular. No 28/2026-27 October 23, 2026 To, All Authorised Dealer Category-I banks and other Authorised Persons Madam / Sir, Delegation of Compounding of certain Contraventions under FEMA, 1999 to Regional Offices of the Reserve Bank Attention of Authorised Dealer (AD) Category - ",
+   "source": {
+    "label": "RBI notification",
+    "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13745&Mode=0"
+   },
+   "auto": true
+  },
+  "auto-e50dab406ace": {
+   "title": "Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Second Amendment Directions, 2026",
+   "date": "2026-10-23",
+   "category": "Rates",
+   "scope": "Market",
+   "summary": "RBI/2026-27/299 DOR.ORG.REC.22/21.06.050/2026-27 October 23, 2026 Reserve Bank of India (Commercial Banks &ndash; Forthcoming Instructions) Second Amendment Directions, 2026 Please refer to Chapter IV of the Reserve Bank of India (Commercial Banks &ndash; Forthcoming Instructions) Directions, 2025 dated November 28, 20",
+   "source": {
+    "label": "RBI notification",
+    "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13744&Mode=0"
+   },
+   "auto": true
+  },
+  "auto-e0fe29f19518": {
+   "title": "Reserve Bank of India (Commercial Banks – Prudential Norms on Capital Adequacy) Eleventh Amendment Directions, 2026",
+   "date": "2026-10-23",
+   "category": "Rates",
+   "scope": "Market",
+   "summary": "RBI/2026-27/297 DOR.CAP.REC.251/21-02-002/2026-27 October 23, 2026 Reserve Bank of India (Commercial Banks &ndash; Prudential Norms on Capital Adequacy) Eleventh Amendment Directions, 2026 Please refer to 'Chapter VII: Leverage Ratio framework' of the Reserve Bank of India (Commercial Banks &ndash; Prudential Norms on ",
+   "source": {
+    "label": "RBI notification",
+    "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13743&Mode=0"
+   },
+   "auto": true
+  },
   "auto-a6f61e0d3f44": {
    "title": "Caution to Investors against Stock Tips offered through Invitation-only WhatsApp Groups",
    "date": "2026-10-22",
@@ -277,19 +337,19 @@
    "auto": true
   }
  },
- "lastRun": "2026-10-23T06:01:37.143Z",
+ "lastRun": "2026-10-24T05:50:45.811Z",
  "sources": {
   "sebi": {
    "ok": true,
-   "checkedAt": "2026-10-23T06:01:37.143Z",
+   "checkedAt": "2026-10-24T05:50:45.811Z",
    "items": 30,
-   "added": 3
+   "added": 2
   },
   "rbi-notifications": {
    "ok": true,
-   "checkedAt": "2026-10-23T06:01:37.143Z",
+   "checkedAt": "2026-10-24T05:50:45.811Z",
    "items": 10,
-   "added": 0
+   "added": 3
   }
  }
 }
