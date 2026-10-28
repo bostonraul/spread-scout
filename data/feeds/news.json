@@ -1,5 +1,41 @@
 {
  "items": {
+  "auto-945d0f40b1c0": {
+   "title": "Extension of timeline for compliance with terms and conditions by Debenture Trustees (DTs) for carrying out activities outside the purview of SEBI",
+   "date": "2026-10-27",
+   "category": "Regulatory",
+   "scope": "Market",
+   "summary": "SEBI published this on 2026-10-27.",
+   "source": {
+    "label": "SEBI",
+    "url": "https://www.sebi.gov.in/legal/circulars/oct-2026/extension-of-timeline-for-compliance-with-terms-and-conditions-by-debenture-trustees-dts-for-carrying-out-activities-outside-the-purview-of-sebi_105454.html"
+   },
+   "auto": true
+  },
+  "auto-5d81ec2ad9b6": {
+   "title": "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 03 Entries",
+   "date": "2026-10-27",
+   "category": "Regulatory",
+   "scope": "Market",
+   "summary": "RBI/2026-27/302 DoR.AML.REC.254/14.06.001/2026-27 October 27, 2026 The Chairpersons/ CEOs of the Commercial Banks, Small Finance Banks, Payment Banks, Urban Co-operative Banks, Rural Co-operative Banks, Regional Rural Banks, Local Area Banks, Non-Banking Financial Companies, Asset Reconstruction Companies, All India Fi",
+   "source": {
+    "label": "RBI notification",
+    "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13748&Mode=0"
+   },
+   "auto": true
+  },
+  "auto-7b1fdb4a84b0": {
+   "title": "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Removal of 03 Entries",
+   "date": "2026-10-27",
+   "category": "Regulatory",
+   "scope": "Market",
+   "summary": "RBI/2026-27/301 DoR.AML.REC.253/14.06.001/2026-27 October 27, 2026 The Chairpersons/ CEOs of the Commercial Banks, Small Finance Banks, Payment Banks, Urban Co-operative Banks, Rural Co-operative Banks, Regional Rural Banks, Local Area Banks, Non-Banking Financial Companies, Asset Reconstruction Companies, All India Fi",
+   "source": {
+    "label": "RBI notification",
+    "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13747&Mode=0"
+   },
+   "auto": true
+  },
   "auto-93d0a2f8a826": {
    "title": "Release Order – Sumit Wadhwa (PAN: AAOPW8621R), Pal Singh (PAN: BDKPS9758P) and Harleen Singh (PAN: ANKPS5827L) [Defaulters] in the matter of Unregistered Investment Adviser: under Certificate No. 7867 of 2024.",
    "date": "2026-10-23",
@@ -337,19 +373,19 @@
    "auto": true
   }
  },
- "lastRun": "2026-10-27T06:15:18.249Z",
+ "lastRun": "2026-10-28T06:50:52.471Z",
  "sources": {
   "sebi": {
    "ok": true,
-   "checkedAt": "2026-10-27T06:15:18.249Z",
+   "checkedAt": "2026-10-28T06:50:52.471Z",
    "items": 30,
-   "added": 0
+   "added": 1
   },
   "rbi-notifications": {
    "ok": true,
-   "checkedAt": "2026-10-27T06:15:18.249Z",
+   "checkedAt": "2026-10-28T06:50:52.471Z",
    "items": 10,
-   "added": 0
+   "added": 2
   }
  }
 }
