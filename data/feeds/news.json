@@ -373,17 +373,17 @@
    "auto": true
   }
  },
- "lastRun": "2026-10-29T07:02:57.103Z",
+ "lastRun": "2026-10-30T07:04:48.105Z",
  "sources": {
   "sebi": {
    "ok": true,
-   "checkedAt": "2026-10-29T07:02:57.103Z",
+   "checkedAt": "2026-10-30T07:04:48.105Z",
    "items": 30,
    "added": 0
   },
   "rbi-notifications": {
    "ok": true,
-   "checkedAt": "2026-10-29T07:02:57.103Z",
+   "checkedAt": "2026-10-30T07:04:48.105Z",
    "items": 10,
    "added": 0
   }
