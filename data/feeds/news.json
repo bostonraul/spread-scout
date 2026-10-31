@@ -1,5 +1,17 @@
 {
  "items": {
+  "auto-ccbe2387d050": {
+   "title": "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1988 (2011) Taliban Sanctions List: Amendment of 05 Entries",
+   "date": "2026-10-30",
+   "category": "Regulatory",
+   "scope": "Market",
+   "summary": "RBI/2026-27/303 DoR.AML.REC.255/14.06.001/2026-27 October 30, 2026 The Chairpersons/ CEOs of the Commercial Banks, Small Finance Banks, Payment Banks, Urban Co-operative Banks, Rural Co-operative Banks, Regional Rural Banks, Local Area Banks, Non-Banking Financial Companies, Asset Reconstruction Companies, All India Fi",
+   "source": {
+    "label": "RBI notification",
+    "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13749&Mode=0"
+   },
+   "auto": true
+  },
   "auto-945d0f40b1c0": {
    "title": "Extension of timeline for compliance with terms and conditions by Debenture Trustees (DTs) for carrying out activities outside the purview of SEBI",
    "date": "2026-10-27",
@@ -373,19 +385,19 @@
    "auto": true
   }
  },
- "lastRun": "2026-10-30T07:04:48.105Z",
+ "lastRun": "2026-10-31T06:59:05.263Z",
  "sources": {
   "sebi": {
    "ok": true,
-   "checkedAt": "2026-10-30T07:04:48.105Z",
+   "checkedAt": "2026-10-31T06:59:05.263Z",
    "items": 30,
    "added": 0
   },
   "rbi-notifications": {
    "ok": true,
-   "checkedAt": "2026-10-30T07:04:48.105Z",
+   "checkedAt": "2026-10-31T06:59:05.263Z",
    "items": 10,
-   "added": 0
+   "added": 1
   }
  }
 }
