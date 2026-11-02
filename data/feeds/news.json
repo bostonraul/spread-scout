@@ -385,17 +385,17 @@
    "auto": true
   }
  },
- "lastRun": "2026-11-01T07:30:17.427Z",
+ "lastRun": "2026-11-02T07:39:56.974Z",
  "sources": {
   "sebi": {
    "ok": true,
-   "checkedAt": "2026-11-01T07:30:17.427Z",
+   "checkedAt": "2026-11-02T07:39:56.974Z",
    "items": 30,
    "added": 0
   },
   "rbi-notifications": {
    "ok": true,
-   "checkedAt": "2026-11-01T07:30:17.427Z",
+   "checkedAt": "2026-11-02T07:39:56.974Z",
    "items": 10,
    "added": 0
   }
