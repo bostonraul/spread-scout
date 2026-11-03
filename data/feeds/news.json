@@ -1,5 +1,41 @@
 {
  "items": {
+  "auto-632daab2b64a": {
+   "title": "Framework for Issuance of Depository Receipts on Units of REITs​",
+   "date": "2026-11-02",
+   "category": "Regulatory",
+   "scope": "Market",
+   "summary": "SEBI published this on 2026-11-02.",
+   "source": {
+    "label": "SEBI",
+    "url": "https://www.sebi.gov.in/legal/circulars/nov-2026/framework-for-issuance-of-depository-receipts-on-units-of-reits-_105558.html"
+   },
+   "auto": true
+  },
+  "auto-bd5a99c553b8": {
+   "title": "Framework for Issuance of Depository Receipts on Units of InvITs​",
+   "date": "2026-11-02",
+   "category": "Regulatory",
+   "scope": "Market",
+   "summary": "SEBI published this on 2026-11-02.",
+   "source": {
+    "label": "SEBI",
+    "url": "https://www.sebi.gov.in/legal/circulars/nov-2026/framework-for-issuance-of-depository-receipts-on-units-of-invits-_105557.html"
+   },
+   "auto": true
+  },
+  "auto-b9e60a055a77": {
+   "title": "Cooling off period for offer for sale by Private listed InvITs",
+   "date": "2026-11-02",
+   "category": "Regulatory",
+   "scope": "Market",
+   "summary": "SEBI published this on 2026-11-02.",
+   "source": {
+    "label": "SEBI",
+    "url": "https://www.sebi.gov.in/legal/circulars/nov-2026/cooling-off-period-for-offer-for-sale-by-private-listed-invits_105539.html"
+   },
+   "auto": true
+  },
   "auto-ccbe2387d050": {
    "title": "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1988 (2011) Taliban Sanctions List: Amendment of 05 Entries",
    "date": "2026-10-30",
@@ -385,17 +421,17 @@
    "auto": true
   }
  },
- "lastRun": "2026-11-02T07:39:56.974Z",
+ "lastRun": "2026-11-03T07:54:18.277Z",
  "sources": {
   "sebi": {
    "ok": true,
-   "checkedAt": "2026-11-02T07:39:56.974Z",
+   "checkedAt": "2026-11-03T07:54:18.277Z",
    "items": 30,
-   "added": 0
+   "added": 3
   },
   "rbi-notifications": {
    "ok": true,
-   "checkedAt": "2026-11-02T07:39:56.974Z",
+   "checkedAt": "2026-11-03T07:54:18.277Z",
    "items": 10,
    "added": 0
   }
