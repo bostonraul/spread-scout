@@ -1,5 +1,17 @@
 {
  "items": {
+  "auto-06651bf17f76": {
+   "title": "Foreign Exchange Management (Export and Import of Goods and Services) (Second Amendment) Regulations, 2026",
+   "date": "2026-11-03",
+   "category": "Capital flows",
+   "scope": "Market",
+   "summary": "RESERVE BANK OF INDIA FOREIGN EXCHANGE DEPARTMENT CENTRAL OFFICE Mumbai 400 001 Notification No. FEMA 23(R)/(2)/2026-RB November 02, 2026 Foreign Exchange Management (Export and Import of Goods and Services) (Second Amendment) Regulations, 2026 In exercise of the powers conferred by Section 7, Section 8, sub-section (6",
+   "source": {
+    "label": "RBI notification",
+    "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13750&Mode=0"
+   },
+   "auto": true
+  },
   "auto-632daab2b64a": {
    "title": "Framework for Issuance of Depository Receipts on Units of REITs​",
    "date": "2026-11-02",
@@ -421,19 +433,19 @@
    "auto": true
   }
  },
- "lastRun": "2026-11-03T07:54:18.277Z",
+ "lastRun": "2026-11-04T07:29:26.973Z",
  "sources": {
   "sebi": {
    "ok": true,
-   "checkedAt": "2026-11-03T07:54:18.277Z",
+   "checkedAt": "2026-11-04T07:29:26.973Z",
    "items": 30,
-   "added": 3
+   "added": 0
   },
   "rbi-notifications": {
    "ok": true,
-   "checkedAt": "2026-11-03T07:54:18.277Z",
+   "checkedAt": "2026-11-04T07:29:26.973Z",
    "items": 10,
-   "added": 0
+   "added": 1
   }
  }
 }
