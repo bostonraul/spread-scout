@@ -433,19 +433,19 @@
    "auto": true
   }
  },
- "lastRun": "2026-11-04T07:29:26.973Z",
+ "lastRun": "2026-11-05T07:54:07.346Z",
  "sources": {
   "sebi": {
    "ok": true,
-   "checkedAt": "2026-11-04T07:29:26.973Z",
+   "checkedAt": "2026-11-05T07:54:07.346Z",
    "items": 30,
    "added": 0
   },
   "rbi-notifications": {
    "ok": true,
-   "checkedAt": "2026-11-04T07:29:26.973Z",
+   "checkedAt": "2026-11-05T07:54:07.346Z",
    "items": 10,
-   "added": 1
+   "added": 0
   }
  }
 }
