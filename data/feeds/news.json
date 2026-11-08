@@ -1,5 +1,17 @@
 {
  "items": {
+  "auto-209bf116806a": {
+   "title": "Master Directions on Cyber Resilience and Digital Payment Security Controls for non-bank Payment System Operators",
+   "date": "2026-11-05",
+   "category": "Regulatory",
+   "scope": "Market",
+   "summary": "RBI/DPSS/2026-27/475 CO.DPSS.CSD.No.S825/01-01-078/2026-2027 November 05, 2026 The Chairman / Managing Director / Chief Executive Officer Authorised Non-bank Payment System Operators Madam / Dear Sir, Master Directions on Cyber Resilience and Digital Payment Security Controls for non-bank Payment System Operators The s",
+   "source": {
+    "label": "RBI notification",
+    "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13751&Mode=0"
+   },
+   "auto": true
+  },
   "auto-06651bf17f76": {
    "title": "Foreign Exchange Management (Export and Import of Goods and Services) (Second Amendment) Regulations, 2026",
    "date": "2026-11-03",
@@ -433,19 +445,19 @@
    "auto": true
   }
  },
- "lastRun": "2026-11-07T07:07:45.982Z",
+ "lastRun": "2026-11-08T07:17:13.586Z",
  "sources": {
   "sebi": {
    "ok": true,
-   "checkedAt": "2026-11-07T07:07:45.982Z",
+   "checkedAt": "2026-11-08T07:17:13.586Z",
    "items": 30,
    "added": 0
   },
   "rbi-notifications": {
    "ok": true,
-   "checkedAt": "2026-11-07T07:07:45.982Z",
+   "checkedAt": "2026-11-08T07:17:13.586Z",
    "items": 10,
-   "added": 0
+   "added": 1
   }
  }
 }
