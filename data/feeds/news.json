@@ -445,17 +445,17 @@
    "auto": true
   }
  },
- "lastRun": "2026-11-10T08:24:34.445Z",
+ "lastRun": "2026-11-11T07:44:18.673Z",
  "sources": {
   "sebi": {
    "ok": true,
-   "checkedAt": "2026-11-10T08:24:34.445Z",
+   "checkedAt": "2026-11-11T07:44:18.673Z",
    "items": 30,
    "added": 0
   },
   "rbi-notifications": {
    "ok": true,
-   "checkedAt": "2026-11-10T08:24:34.445Z",
+   "checkedAt": "2026-11-11T07:44:18.673Z",
    "items": 10,
    "added": 0
   }
