@@ -1,5 +1,17 @@
 {
  "items": {
+  "auto-e838b5959657": {
+   "title": "Reserve Bank of India (Domestic Money Transfer) Directions, 2026",
+   "date": "2026-11-11",
+   "category": "Capital flows",
+   "scope": "Market",
+   "summary": "RBI/DPSS/2026-27/476 CO.DPSS.POLC.No.S843/02-27-019/2026-2027 November 11, 2026 All Scheduled Commercial Banks, including Regional Rural Banks / Urban Co-operative Banks / State Co-operative Banks / District Central Co-operative Banks / Authorised Payment System Operators and Participants (Banks and Non-banks) Madam / ",
+   "source": {
+    "label": "RBI notification",
+    "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13752&Mode=0"
+   },
+   "auto": true
+  },
   "auto-209bf116806a": {
    "title": "Master Directions on Cyber Resilience and Digital Payment Security Controls for non-bank Payment System Operators",
    "date": "2026-11-05",
@@ -445,19 +457,19 @@
    "auto": true
   }
  },
- "lastRun": "2026-11-11T07:44:18.673Z",
+ "lastRun": "2026-11-12T08:18:26.081Z",
  "sources": {
   "sebi": {
    "ok": true,
-   "checkedAt": "2026-11-11T07:44:18.673Z",
+   "checkedAt": "2026-11-12T08:18:26.081Z",
    "items": 30,
    "added": 0
   },
   "rbi-notifications": {
    "ok": true,
-   "checkedAt": "2026-11-11T07:44:18.673Z",
+   "checkedAt": "2026-11-12T08:18:26.081Z",
    "items": 10,
-   "added": 0
+   "added": 1
   }
  }
 }
