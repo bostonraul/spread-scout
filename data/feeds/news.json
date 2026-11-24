@@ -1,5 +1,53 @@
 {
  "items": {
+  "auto-8e27c9c1764c": {
+   "title": "Reserve Bank of India (All India Financial Institutions - Securitisation Transactions) Amendment Directions, 2026",
+   "date": "2026-11-23",
+   "category": "Regulatory",
+   "scope": "Market",
+   "summary": "RBI/2026-27/307 DOR.STR.REC.259/21-04-177/2026-27 November 23, 2026 Reserve Bank of India (All India Financial Institutions - Securitisation Transactions) Amendment Directions, 2026 Please refer to Reserve Bank of India (All India Financial Institutions - Securitisation Transactions) Directions, 2025 . 2. On a review, ",
+   "source": {
+    "label": "RBI notification",
+    "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13756&Mode=0"
+   },
+   "auto": true
+  },
+  "auto-eec7b4921800": {
+   "title": "Reserve Bank of India (Non-Banking Financial Companies - Securitisation Transactions) Amendment Directions, 2026",
+   "date": "2026-11-23",
+   "category": "Regulatory",
+   "scope": "Market",
+   "summary": "RBI/2026-27/306 DOR.STR.REC.258/21-04-177/2026-27 November 23, 2026 Reserve Bank of India (Non-Banking Financial Companies - Securitisation Transactions) Amendment Directions, 2026 Please refer to Reserve Bank of India (Non-Banking Financial Companies - Securitisation Transactions) Directions, 2025 . 2. On a review, an",
+   "source": {
+    "label": "RBI notification",
+    "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13755&Mode=0"
+   },
+   "auto": true
+  },
+  "auto-ae3bfb0db55f": {
+   "title": "Reserve Bank of India (Small Finance Banks - Securitisation Transactions) Amendment Directions, 2026",
+   "date": "2026-11-23",
+   "category": "Regulatory",
+   "scope": "Market",
+   "summary": "RBI/2026-27/305 DOR.STR.REC.257/21-04-177/2026-27 November 23, 2026 Reserve Bank of India (Small Finance Banks - Securitisation Transactions) Amendment Directions, 2026 Please refer to Reserve Bank of India (Small Finance Banks - Securitisation Transactions) Directions, 2025 . 2. On a review, and in exercise of the pow",
+   "source": {
+    "label": "RBI notification",
+    "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13754&Mode=0"
+   },
+   "auto": true
+  },
+  "auto-ce956c3a870f": {
+   "title": "Reserve Bank of India (Commercial Banks - Securitisation Transactions) Amendment Directions, 2026",
+   "date": "2026-11-23",
+   "category": "Regulatory",
+   "scope": "Market",
+   "summary": "RBI/2026-27/304 DOR.STR.REC.256/21-04-177/2026-27 November 23, 2026 Reserve Bank of India (Commercial Banks - Securitisation Transactions) Amendment Directions, 2026 Please refer to Reserve Bank of India (Commercial Banks - Securitisation Transactions) Directions, 2025 . 2. On a review, and in exercise of the powers co",
+   "source": {
+    "label": "RBI notification",
+    "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13753&Mode=0"
+   },
+   "auto": true
+  },
   "auto-e838b5959657": {
    "title": "Reserve Bank of India (Domestic Money Transfer) Directions, 2026",
    "date": "2026-11-11",
@@ -457,19 +505,19 @@
    "auto": true
   }
  },
- "lastRun": "2026-11-23T08:59:45.008Z",
+ "lastRun": "2026-11-24T10:53:54.112Z",
  "sources": {
   "sebi": {
    "ok": true,
-   "checkedAt": "2026-11-23T08:59:45.008Z",
+   "checkedAt": "2026-11-24T10:53:54.112Z",
    "items": 0,
    "added": 0
   },
   "rbi-notifications": {
    "ok": true,
-   "checkedAt": "2026-11-23T08:59:45.008Z",
+   "checkedAt": "2026-11-24T10:53:54.112Z",
    "items": 10,
-   "added": 0
+   "added": 4
   }
  }
 }
