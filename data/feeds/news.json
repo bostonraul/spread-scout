@@ -1,5 +1,29 @@
 {
  "items": {
+  "auto-a2350e89eee3": {
+   "title": "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 01 Entry",
+   "date": "2026-11-26",
+   "category": "Regulatory",
+   "scope": "Market",
+   "summary": "RBI/2026-27/309 DoR.AML.REC.261/14.06.001/2026-27 November 26, 2026 The Chairpersons/ CEOs of the Commercial Banks, Small Finance Banks, Payment Banks, Urban Co-operative Banks, Rural Co-operative Banks, Regional Rural Banks, Local Area Banks, Non-Banking Financial Companies, Asset Reconstruction Companies, All India F",
+   "source": {
+    "label": "RBI notification",
+    "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13758&Mode=0"
+   },
+   "auto": true
+  },
+  "auto-2982165f8386": {
+   "title": "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 81 entries",
+   "date": "2026-11-26",
+   "category": "Regulatory",
+   "scope": "Market",
+   "summary": "RBI/2026-27/308 DoR.AML.REC.260/14.06.001/2026-27 November 26, 2026 The Chairpersons/ CEOs of the Commercial Banks, Small Finance Banks, Payment Banks, Urban Co-operative Banks, Rural Co-operative Banks, Regional Rural Banks, Local Area Banks, Non-Banking Financial Companies, Asset Reconstruction Companies, All India F",
+   "source": {
+    "label": "RBI notification",
+    "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13757&Mode=0"
+   },
+   "auto": true
+  },
   "auto-8e27c9c1764c": {
    "title": "Reserve Bank of India (All India Financial Institutions - Securitisation Transactions) Amendment Directions, 2026",
    "date": "2026-11-23",
@@ -45,6 +69,30 @@
    "source": {
     "label": "RBI notification",
     "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13753&Mode=0"
+   },
+   "auto": true
+  },
+  "auto-cc813ff7575e": {
+   "title": "Release Order – Unickon Securities Pvt. Ltd. [Defaulter] (PAN: AAPFS5325P) in the matter of Unickon Securities Pvt. Ltd.: under Certificate No. 5163 of 2022.",
+   "date": "2026-11-20",
+   "category": "Regulatory",
+   "scope": "Market",
+   "summary": "SEBI published this on 2026-11-20.",
+   "source": {
+    "label": "SEBI",
+    "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/release-order-unickon-securities-pvt-ltd-defaulter-pan-aapfs5325p-in-the-matter-of-unickon-securities-pvt-ltd-under-certificate-no-5163-of-2022-_105925.html"
+   },
+   "auto": true
+  },
+  "auto-5794c94198b7": {
+   "title": "Release Order – Unicon Securities Pvt. Ltd. [Defaulter] (PAN: AAPFS5325P) in the matter of Ashutosh Paper Mills Limited: under Certificate No. 3834 of 2021.",
+   "date": "2026-11-20",
+   "category": "Regulatory",
+   "scope": "Market",
+   "summary": "SEBI published this on 2026-11-20.",
+   "source": {
+    "label": "SEBI",
+    "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/release-order-unicon-securities-pvt-ltd-defaulter-pan-aapfs5325p-in-the-matter-of-ashutosh-paper-mills-limited-under-certificate-no-3834-of-2021-_105923.html"
    },
    "auto": true
   },
@@ -505,19 +553,19 @@
    "auto": true
   }
  },
- "lastRun": "2026-11-25T09:50:15.464Z",
+ "lastRun": "2026-11-26T09:30:05.892Z",
  "sources": {
   "sebi": {
    "ok": true,
-   "checkedAt": "2026-11-25T09:50:15.464Z",
-   "items": 0,
-   "added": 0
+   "checkedAt": "2026-11-26T09:30:05.892Z",
+   "items": 30,
+   "added": 2
   },
   "rbi-notifications": {
    "ok": true,
-   "checkedAt": "2026-11-25T09:50:15.464Z",
+   "checkedAt": "2026-11-26T09:30:05.892Z",
    "items": 10,
-   "added": 0
+   "added": 2
   }
  }
 }
