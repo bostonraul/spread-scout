@@ -553,19 +553,19 @@
    "auto": true
   }
  },
- "lastRun": "2026-11-26T09:30:05.892Z",
+ "lastRun": "2026-11-27T09:39:35.282Z",
  "sources": {
   "sebi": {
    "ok": true,
-   "checkedAt": "2026-11-26T09:30:05.892Z",
+   "checkedAt": "2026-11-27T09:39:35.282Z",
    "items": 30,
-   "added": 2
+   "added": 0
   },
   "rbi-notifications": {
    "ok": true,
-   "checkedAt": "2026-11-26T09:30:05.892Z",
+   "checkedAt": "2026-11-27T09:39:35.282Z",
    "items": 10,
-   "added": 2
+   "added": 0
   }
  }
 }
