@@ -1,5 +1,17 @@
 {
  "items": {
+  "auto-b4fdfd702c9f": {
+   "title": "Section 42(1) of the Reserve Bank of India Act, 1934 - Change in Daily Minimum Cash Reserve Maintenance Requirement",
+   "date": "2026-11-27",
+   "category": "Rates",
+   "scope": "Market",
+   "summary": "RBI/2026-27/310 DoR.RET.REC.262/12.01.001/2026-27 November 27, 2026 All Scheduled Banks, Madam / Sir, Section 42(1) of the Reserve Bank of India Act, 1934 - Change in Daily Minimum Cash Reserve Maintenance Requirement Please refer to our circular DoR.RET.REC.247/12.01.001/2026-27 dated October 09, 2026 on the captioned",
+   "source": {
+    "label": "RBI notification",
+    "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13759&Mode=0"
+   },
+   "auto": true
+  },
   "auto-a2350e89eee3": {
    "title": "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 01 Entry",
    "date": "2026-11-26",
@@ -553,19 +565,18 @@
    "auto": true
   }
  },
- "lastRun": "2026-11-27T09:39:35.282Z",
+ "lastRun": "2026-11-28T08:53:58.112Z",
  "sources": {
   "sebi": {
-   "ok": true,
-   "checkedAt": "2026-11-27T09:39:35.282Z",
-   "items": 30,
-   "added": 0
+   "ok": false,
+   "checkedAt": "2026-11-28T08:53:58.112Z",
+   "error": "fetch failed"
   },
   "rbi-notifications": {
    "ok": true,
-   "checkedAt": "2026-11-27T09:39:35.282Z",
+   "checkedAt": "2026-11-28T08:53:58.112Z",
    "items": 10,
-   "added": 0
+   "added": 1
   }
  }
 }
